@@ -2,11 +2,11 @@
   {
     "Title": "30 Minute Workout",
     "Image": "https://shane9b3-cycling.s3.us-east-2.amazonaws.com/30Minute_workout_CHART.png",
-    "Workout_URL": "https://raw.githubusercontent.com/shane9b3/cycling/main/workouts/30_Minute_Workout.json"
+    "Workout_URL": "https://raw.githubusercontent.com/shane9b3/cycling/main/workouts/30_Minute_Workout.json",
   },
   {
     "Title": "45 Minute - Greek City",
     "Image": "https://shane9b3-cycling.s3.us-east-2.amazonaws.com/45Minute_Greek_City_CHART.png"
-    "Workout_URL": "https://raw.githubusercontent.com/shane9b3/cycling/main/workouts/30_Minute_Workout.json"
+    "Workout_URL": "https://raw.githubusercontent.com/shane9b3/cycling/main/workouts/30_Minute_Workout.json",
   }
 ]
