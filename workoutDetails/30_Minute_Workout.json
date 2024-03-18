@@ -1,0 +1,114 @@
+[
+  {
+    "Time": 3,
+    "Activity": "Warm-up",
+    "Resistance": 4,
+    "Cadence": 65,
+    "Stroke instruction": "",
+    "Elapsed Time": 3
+  },
+  {
+    "Time": 3,
+    "Activity": "Intervals",
+    "Resistance": 7,
+    "Cadence": 85,
+    "Stroke instruction": "",
+    "Elapsed Time": 6
+  },
+  {
+    "Time": 2,
+    "Activity": "Recovery",
+    "Resistance": 4,
+    "Cadence": 60,
+    "Stroke instruction": "",
+    "Elapsed Time": 8
+  },
+  {
+    "Time": 2,
+    "Activity": "Intervals",
+    "Resistance": 9,
+    "Cadence": 95,
+    "Stroke instruction": "",
+    "Elapsed Time": 10
+  },
+  {
+    "Time": 3,
+    "Activity": "Recovery",
+    "Resistance": 4,
+    "Cadence": 60,
+    "Stroke instruction": "",
+    "Elapsed Time": 13
+  },
+  {
+    "Time": 1,
+    "Activity": "Intervals",
+    "Resistance": 13,
+    "Cadence": 60,
+    "Stroke instruction": "Seated Climb - Slower, Powerful Strokes",
+    "Elapsed Time": 14
+  },
+  {
+    "Time": 2,
+    "Activity": "Recovery",
+    "Resistance": 4,
+    "Cadence": 60,
+    "Stroke instruction": "",
+    "Elapsed Time": 16
+  },
+  {
+    "Time": 1,
+    "Activity": "Intervals",
+    "Resistance": 13,
+    "Cadence": 60,
+    "Stroke instruction": "Seated Climb - Slower, Powerful Strokes",
+    "Elapsed Time": 17
+  },
+  {
+    "Time": 3,
+    "Activity": "Intervals",
+    "Resistance": 7,
+    "Cadence": 85,
+    "Stroke instruction": "Satnding Jog",
+    "Elapsed Time": 20
+  },
+  {
+    "Time": 2,
+    "Activity": "Recovery",
+    "Resistance": 4,
+    "Cadence": 60,
+    "Stroke instruction": "",
+    "Elapsed Time": 22
+  },
+  {
+    "Time": 2,
+    "Activity": "Bonus Interval",
+    "Resistance": 8,
+    "Cadence": 85,
+    "Stroke instruction": "",
+    "Elapsed Time": 24
+  },
+  {
+    "Time": 2,
+    "Activity": "Recovery",
+    "Resistance": 4,
+    "Cadence": 60,
+    "Stroke instruction": "",
+    "Elapsed Time": 26
+  },
+  {
+    "Time": 3,
+    "Activity": "Cool-down",
+    "Resistance": 2,
+    "Cadence": 50,
+    "Stroke instruction": "",
+    "Elapsed Time": 29
+  },
+  {
+    "Time": 1,
+    "Activity": "Cool-down",
+    "Resistance": 1,
+    "Cadence": 50,
+    "Stroke instruction": "",
+    "Elapsed Time": 30
+  }
+]
