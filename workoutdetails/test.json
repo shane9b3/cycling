@@ -1,0 +1,18 @@
+[
+  {
+    "Time": 1,
+    "Activity": "Warm-up",
+    "Resistance": 3,
+    "Cadence": 70,
+    "Stroke instruction": "",
+    "Elapsed Time": 5
+  },
+  {
+    "Time": 1,
+    "Activity": "Winding Streets",
+    "Resistance": 4,
+    "Cadence": 75,
+    "Stroke instruction": "",
+    "Elapsed Time": 10
+  },
+]
