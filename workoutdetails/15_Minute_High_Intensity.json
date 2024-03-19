@@ -4,15 +4,15 @@
     "Activity": "Warm-up",
     "Resistance": 4,
     "Cadence": 70,
-    "Stroke instructions": "",
+    "Stroke instruction": "",
     "Elapsed Time": 2
   },
   {
     "Time": 1,
-    "Activity": "Hill Sprint (Seated)",
+    "Activity": "Hill Sprint",
     "Resistance": 10,
     "Cadence": 90,
-    "Stroke instructions": "Seated",
+    "Stroke instruction": "Seated",
     "Elapsed Time": 3
   },
   {
@@ -20,15 +20,15 @@
     "Activity": "Recovery",
     "Resistance": 3,
     "Cadence": 60,
-    "Stroke instructions": "",
+    "Stroke instruction": "",
     "Elapsed Time": 4
   },
   {
     "Time": 1,
-    "Activity": "Speed Burst (Standing)",
+    "Activity": "Speed Burst",
     "Resistance": 7,
     "Cadence": 100,
-    "Stroke instructions": "Standing",
+    "Stroke instruction": "Standing",
     "Elapsed Time": 5
   },
   {
@@ -36,15 +36,15 @@
     "Activity": "Recovery",
     "Resistance": 3,
     "Cadence": 60,
-    "Stroke instructions": "",
+    "Stroke instruction": "",
     "Elapsed Time": 6
   },
   {
     "Time": 2,
-    "Activity": "Power Climb (Seated)",
+    "Activity": "Power Climb",
     "Resistance": 12,
     "Cadence": 70,
-    "Stroke instructions": "Seated",
+    "Stroke instruction": "Seated",
     "Elapsed Time": 8
   },
   {
@@ -52,15 +52,15 @@
     "Activity": "Recovery",
     "Resistance": 3,
     "Cadence": 60,
-    "Stroke instructions": "",
+    "Stroke instruction": "",
     "Elapsed Time": 9
   },
   {
     "Time": 1,
-    "Activity": "All-Out Sprint (Standing)",
+    "Activity": "All-Out Sprint",
     "Resistance": 8,
     "Cadence": 110,
-    "Stroke instructions": "",
+    "Stroke instruction": "Standing",
     "Elapsed Time": 10
   },
   {
@@ -68,7 +68,7 @@
     "Activity": "Cool-down",
     "Resistance": 2,
     "Cadence": 50,
-    "Stroke instructions": "",
+    "Stroke instruction": "",
     "Elapsed Time": 11
   }
 ]
