@@ -1,0 +1,74 @@
+[
+  {
+    "Time": 2,
+    "Activity": "Warm-up",
+    "Resistance": 4,
+    "Cadence": 70,
+    "Stroke instructions": "",
+    "Elapsed Time": 2
+  },
+  {
+    "Time": 1,
+    "Activity": "Hill Sprint (Seated)",
+    "Resistance": 10,
+    "Cadence": 90,
+    "Stroke instructions": "Seated",
+    "Elapsed Time": 3
+  },
+  {
+    "Time": 1,
+    "Activity": "Recovery",
+    "Resistance": 3,
+    "Cadence": 60,
+    "Stroke instructions": "",
+    "Elapsed Time": 4
+  },
+  {
+    "Time": 1,
+    "Activity": "Speed Burst (Standing)",
+    "Resistance": 7,
+    "Cadence": 100,
+    "Stroke instructions": "Standing",
+    "Elapsed Time": 5
+  },
+  {
+    "Time": 1,
+    "Activity": "Recovery",
+    "Resistance": 3,
+    "Cadence": 60,
+    "Stroke instructions": "",
+    "Elapsed Time": 6
+  },
+  {
+    "Time": 2,
+    "Activity": "Power Climb (Seated)",
+    "Resistance": 12,
+    "Cadence": 70,
+    "Stroke instructions": "Seated",
+    "Elapsed Time": 8
+  },
+  {
+    "Time": 1,
+    "Activity": "Recovery",
+    "Resistance": 3,
+    "Cadence": 60,
+    "Stroke instructions": "",
+    "Elapsed Time": 9
+  },
+  {
+    "Time": 1,
+    "Activity": "All-Out Sprint (Standing)",
+    "Resistance": 8,
+    "Cadence": 110,
+    "Stroke instructions": "",
+    "Elapsed Time": 10
+  },
+  {
+    "Time": 1,
+    "Activity": "Cool-down",
+    "Resistance": 2,
+    "Cadence": 50,
+    "Stroke instructions": "",
+    "Elapsed Time": 11
+  }
+]
